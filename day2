@@ -1,7 +1,7 @@
+--Just Removed spaces in the code.
+
 #include<iostream>
- 
 using namespace std;
- 
 int main()
 {
 int i,j,count=1,b=0;
@@ -23,7 +23,6 @@ count++;
 b=0;
 if(count==10)
 break;
-}
- 
+} 
 return 0;
 }
