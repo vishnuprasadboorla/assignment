@@ -1,10 +1,10 @@
 # assignment
 
-this is written in Github
+**this is being written in GitHub**
 
 I think this renders in main, but i am doing for testing.........
 testing
-this is also written in Github
+**this 7th line is also being written in GitHub**
 
 
 
