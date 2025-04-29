@@ -1,10 +1,10 @@
 # assignment
 
-this is written in VS code local
+this is written in Github
 
 I think this renders in main, but i am doing for testing.........
 testing
-this is also written in vs code
+this is also written in Github
 
 
 
