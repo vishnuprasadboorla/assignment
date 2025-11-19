@@ -1,4 +1,4 @@
-const resolvedFilePaths = [];
+const jijijijijijijijijiji = [];
 const workspaceFiles = [];
 
 const isUsingFilePaths = Array.isArray(file_paths) && file_paths.length > 0;
